@@ -15,7 +15,6 @@ The application opens your webcam and performs live detection. It labels people 
 ## How to Run
 python cam.py
 
-## Sample Output 
 
 
 
