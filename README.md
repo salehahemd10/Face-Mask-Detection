@@ -18,11 +18,4 @@ python cam.py
 ## Sample Output 
 
 
-### With Mask
-![With Mask](Images/With%20Mask.jpg)
-
-
-### Without Mask
-![No Mask](Images/No%20Mask.jpg)
-
 
